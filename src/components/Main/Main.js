@@ -307,6 +307,7 @@ const Main = () => {
                         </div>
                         <div className="cannoli">
                             <img src={cannoli} className="cannoli" alt="cannoli" />
+                            
                         </div> 
                  </div>
                     <div className="footer">
